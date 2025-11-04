@@ -173,7 +173,7 @@ async def call_alex(message: types.Message):
         reply_markup=keyboard
     )
 
-ADMIN_ID = @voznikla  # 🔹 сюда вставь свой Telegram ID
+ADMIN_ID = 1553754712 # 🔹 сюда вставь свой Telegram ID
 
 LOG_FILE = "logs.json"
 
